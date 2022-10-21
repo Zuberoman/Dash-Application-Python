@@ -1,2 +1,3 @@
 # Dash-Application-Python
-Web application for predicting used car price by fulfilling several car parameters. Price prediction done by Random Forest Model.
+-building machine learning model by Random Foreset using used cars prices dataset
+-building regression model for used car price prediction in simple web application
